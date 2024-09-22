@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tofzo.github.io/TDG/sitemap.TDG.gz
