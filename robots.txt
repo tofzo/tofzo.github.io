@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tofzo.csgad.com/Aku/sitemap.xml.gz
